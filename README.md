@@ -8,7 +8,8 @@ My solutions to the levels and battles of the [EXAPUNKS](https://store.steampowe
 
 | #   | Level                                                                              | Cycles | Size | Activity |
 | --- | ---------------------------------------------------------------------------------- | ------ | ---- | -------- |
-| 1   | [Trash World News - Tutorial 1](./solutions/levels/01-trash-world-news-tutorial-1) | 4      | 4    | 2        |
+| 01  | [Trash World News - Tutorial 1](./solutions/levels/01-trash-world-news-tutorial-1) | 4      | 4    | 2        |
+| 02  | [Trash World News - Tutorial 2](./solutions/levels/02-trash-world-news-tutorial-2) | 9      | 9    | 2        |
 
 ## Battle Solutions
 
