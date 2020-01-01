@@ -6,14 +6,15 @@ My solutions to the levels and battles of the [EXAPUNKS](https://store.steampowe
 
 ## Level Solutions
 
-| #   | Level                                                                              | Cycles | Size | Activity |
-| --- | ---------------------------------------------------------------------------------- | ------ | ---- | -------- |
-| 01  | [Trash World News - Tutorial 1](./solutions/levels/01-trash-world-news-tutorial-1) | 4      | 4    | 2        |
-| 02  | [Trash World News - Tutorial 2](./solutions/levels/02-trash-world-news-tutorial-2) | 9      | 9    | 2        |
-| 03  | [Trash World News - Tutorial 3](./solutions/levels/03-trash-world-news-tutorial-3) | 10     | 14   | 4        |
-| 04  | [Trash World News - Tutorial 4](./solutions/levels/04-trash-world-news-tutorial-4) | 407    | 12   | 2        |
-| 05  | [Euclid's Pizza - Order System](./solutions/levels/05-euclids-pizza-order-system)  | 24     | 15   | 1        |
-| 06  | [Mitsuzen HDI-10 - Left Arm](./solutions/levels/06-mitsuzen-hdi-10-left-arm)       | 184    | 24   | 6        |
+| #   | Level                                                                                | Cycles | Size | Activity |
+| --- | ------------------------------------------------------------------------------------ | ------ | ---- | -------- |
+| 01  | [Trash World News - Tutorial 1](./solutions/levels/01-trash-world-news-tutorial-1)   | 4      | 4    | 2        |
+| 02  | [Trash World News - Tutorial 2](./solutions/levels/02-trash-world-news-tutorial-2)   | 9      | 9    | 2        |
+| 03  | [Trash World News - Tutorial 3](./solutions/levels/03-trash-world-news-tutorial-3)   | 10     | 14   | 4        |
+| 04  | [Trash World News - Tutorial 4](./solutions/levels/04-trash-world-news-tutorial-4)   | 407    | 12   | 2        |
+| 05  | [Euclid's Pizza - Order System](./solutions/levels/05-euclids-pizza-order-system)    | 24     | 15   | 1        |
+| 06  | [Mitsuzen HDI-10 - Left Arm](./solutions/levels/06-mitsuzen-hdi-10-left-arm)         | 184    | 24   | 6        |
+| 07  | [Last Stop Snaxnet - Factory 11](./solutions/levels/07-last-stop-snaxnet-factory-11) | 41     | 14   | 2        |
 
 ## Battle Solutions
 
