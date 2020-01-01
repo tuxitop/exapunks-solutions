@@ -22,6 +22,7 @@ My solutions to the levels and battles of the [EXAPUNKS](https://store.steampowe
 | 12  | [Workhouse - Work Management System](./solutions/levels/12-workhouse-work-management-system)                                |  633   |  31  |    2     |
 | 13  | [Equity First Bank - San Francisco](./solutions/levels/13-equity-first-bank-san-francisco)                                  |  3025  |  18  |    10    |
 | 14  | [Mitsuzen HDI-10 - Heart](./solutions/levels/14-mitsuzen-hdi-10-heart)                                                      |  100   |  29  |    7     |
+| 15  | [Trash World News - Unknown Context](./solutions/levels/15-trash-world-news-unknown-context)                                |  1639  |  31  |    4     |
 
 ## Battle Solutions
 
