@@ -28,6 +28,7 @@ My solutions to the levels and battles of the [EXAPUNKS](https://store.steampowe
 | 18  | [TEC EXA-Blaster Modem - Radio Stations](./solutions/levels/18-tec-exa-blaster-modem-radio-stations)                        |  490   |  48  |    27    |
 | 19  | [Emerson's Guide - Streetsmarts GIS Database](./solutions/levels/19-emersons-guide-streetsmarts-gis-database)               |   47   |  58  |    6     |
 | 20  | [Mitsuzen HDI-10 - Left Hand](./solutions/levels/20-mitsuzen-hdi-10-left-hand)                                              |  103   |  72  |    21    |
+| 21  | [Sawayama Wonderdisc - Drive Controller](./solutions/levels/21-sawayama-wonderdisc-drive-controller)                        |  6555  |  48  |    63    |
 
 ## Battle Solutions
 
