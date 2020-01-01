@@ -24,6 +24,7 @@ My solutions to the levels and battles of the [EXAPUNKS](https://store.steampowe
 | 14  | [Mitsuzen HDI-10 - Heart](./solutions/levels/14-mitsuzen-hdi-10-heart)                                                      |  100   |  29  |    7     |
 | 15  | [Trash World News - Unknown Context](./solutions/levels/15-trash-world-news-unknown-context)                                |  1639  |  31  |    4     |
 | 16  | [TEC Redshift - Development Kit](./solutions/levels/16-tec-redshift-development-kit)                                        |  5822  |  24  |    4     |
+| 17  | [Digital Library Project - Patron Access System](./solutions/levels/17-digital-library-project-patron-access-system)        |  294   |  34  |    74    |
 
 ## Battle Solutions
 
