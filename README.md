@@ -13,6 +13,7 @@ My solutions to the levels and battles of the [EXAPUNKS](https://store.steampowe
 | 03  | [Trash World News - Tutorial 3](./solutions/levels/03-trash-world-news-tutorial-3) | 10     | 14   | 4        |
 | 04  | [Trash World News - Tutorial 4](./solutions/levels/04-trash-world-news-tutorial-4) | 407    | 12   | 2        |
 | 05  | [Euclid's Pizza - Order System](./solutions/levels/05-euclids-pizza-order-system)  | 24     | 15   | 1        |
+| 06  | [Mitsuzen HDI-10 - Left Arm](./solutions/levels/06-mitsuzen-hdi-10-left-arm)       | 184    | 24   | 6        |
 
 ## Battle Solutions
 
