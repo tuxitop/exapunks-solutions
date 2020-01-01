@@ -26,6 +26,7 @@ My solutions to the levels and battles of the [EXAPUNKS](https://store.steampowe
 | 16  | [TEC Redshift - Development Kit](./solutions/levels/16-tec-redshift-development-kit)                                        |  5822  |  24  |    4     |
 | 17  | [Digital Library Project - Patron Access System](./solutions/levels/17-digital-library-project-patron-access-system)        |  294   |  34  |    74    |
 | 18  | [TEC EXA-Blaster Modem - Radio Stations](./solutions/levels/18-tec-exa-blaster-modem-radio-stations)                        |  490   |  48  |    27    |
+| 19  | [Emerson's Guide - Streetsmarts GIS Database](./solutions/levels/19-emersons-guide-streetsmarts-gis-database)               |   47   |  58  |    6     |
 
 ## Battle Solutions
 
