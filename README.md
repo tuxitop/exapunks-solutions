@@ -12,6 +12,7 @@ My solutions to the levels and battles of the [EXAPUNKS](https://store.steampowe
 | 02  | [Trash World News - Tutorial 2](./solutions/levels/02-trash-world-news-tutorial-2) | 9      | 9    | 2        |
 | 03  | [Trash World News - Tutorial 3](./solutions/levels/03-trash-world-news-tutorial-3) | 10     | 14   | 4        |
 | 04  | [Trash World News - Tutorial 4](./solutions/levels/04-trash-world-news-tutorial-4) | 407    | 12   | 2        |
+| 05  | [Euclid's Pizza - Order System](./solutions/levels/05-euclids-pizza-order-system)  | 24     | 15   | 1        |
 
 ## Battle Solutions
 
