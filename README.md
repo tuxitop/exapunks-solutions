@@ -25,6 +25,7 @@ My solutions to the levels and battles of the [EXAPUNKS](https://store.steampowe
 | 15  | [Trash World News - Unknown Context](./solutions/levels/15-trash-world-news-unknown-context)                                |  1639  |  31  |    4     |
 | 16  | [TEC Redshift - Development Kit](./solutions/levels/16-tec-redshift-development-kit)                                        |  5822  |  24  |    4     |
 | 17  | [Digital Library Project - Patron Access System](./solutions/levels/17-digital-library-project-patron-access-system)        |  294   |  34  |    74    |
+| 18  | [TEC EXA-Blaster Modem - Radio Stations](./solutions/levels/18-tec-exa-blaster-modem-radio-stations)                        |  490   |  48  |    27    |
 
 ## Battle Solutions
 
