@@ -17,6 +17,7 @@ My solutions to the levels and battles of the [EXAPUNKS](https://store.steampowe
 | 07  | [Last Stop Snaxnet - Factory 11](./solutions/levels/07-last-stop-snaxnet-factory-11)                                        | 41     | 14   | 2        |
 | 08  | [Zebros Copies - Point-of-Sale System](./solutions/levels/08-zebros-copies-point-of-sale-system)                            | 99     | 28   | 4        |
 | 09  | [SFCTA Highway Sign #4902 - Remote Access Interface](./solutions/levels/09-sfcta-highway-sign-4902-remote-access-interface) | 164    | 10   | 1        |
+| 10  | [Unknown Network 1 - Unknown Context](./solutions/levels/10-unknown-network-1-unknown-context)                              | 24     | 23   | 27       |
 
 ## Battle Solutions
 
