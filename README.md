@@ -20,7 +20,8 @@ My solutions to the levels and battles of the [EXAPUNKS](https://store.steampowe
 | 10  | [Unknown Network 1 - Unknown Context](./solutions/levels/10-unknown-network-1-unknown-context)                              |   24   |  23  |    27    |
 | 11  | [UC Berkeley - EECS Department](./solutions/levels/11-uc-berkeley-eecs-department)                                          |  122   |  32  |    7     |
 | 12  | [Workhouse - Work Management System](./solutions/levels/12-workhouse-work-management-system)                                |  633   |  31  |    2     |
-| 13  | [Equity First Bank - San Francisco)](./solutions/levels/13-equity-first-bank-san-francisco)                                 |  3025  |  18  |    10    |
+| 13  | [Equity First Bank - San Francisco](./solutions/levels/13-equity-first-bank-san-francisco)                                  |  3025  |  18  |    10    |
+| 14  | [Mitsuzen HDI-10 - Heart](./solutions/levels/14-mitsuzen-hdi-10-heart)                                                      |  100   |  29  |    7     |
 
 ## Battle Solutions
 
