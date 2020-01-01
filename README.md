@@ -19,6 +19,7 @@ My solutions to the levels and battles of the [EXAPUNKS](https://store.steampowe
 | 09  | [SFCTA Highway Sign #4902 - Remote Access Interface](./solutions/levels/09-sfcta-highway-sign-4902-remote-access-interface) | 164    | 10   | 1        |
 | 10  | [Unknown Network 1 - Unknown Context](./solutions/levels/10-unknown-network-1-unknown-context)                              | 24     | 23   | 27       |
 | 11  | [UC Berkeley - EECS Department](./solutions/levels/11-uc-berkeley-eecs-department)                                          | 122    | 32   | 7        |
+| 12  | [Workhouse - Work Management System](./solutions/levels/12-workhouse-work-management-system)                                | 633    | 31   | 2        |
 
 ## Battle Solutions
 
