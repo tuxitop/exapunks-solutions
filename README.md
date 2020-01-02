@@ -32,7 +32,8 @@ My solutions to the levels and battles of the [EXAPUNKS](https://store.steampowe
 | 22  | [Alliance Power And Light - Streetsmarts GIS Database](./solutions/levels/22-alliance-power-and-light-streetsmarts-gis-database) |   47   |  34  |    36    |
 | 23  | [Xtreme League Baseball - Player Database](./solutions/levels/23-xtreme-league-baseball-player-database)                         |  221   |  56  |    3     |
 | 24  | [King's Ransom Online - US West Realm](./solutions/levels/24-kings-ransom-online-us-west-realm)                                  |   67   |  41  |    33    |
-| 25  | [KGOG-tv - Satellite Uplink](./solutions/levels/25-kgog-tv-satellite-uplink)                                                     |  346   |  76  |    11    |
+| 25  | [KGOG-TV - Satellite Uplink](./solutions/levels/25-kgog-tv-satellite-uplink)                                                     |  346   |  76  |    11    |
+| 26  | [Equity First Bank - San Francisco - ATMS Offline](./solutions/levels/26-equity-first-bank-san-francisco-atms-offline)           |  107   |  45  |    5     |
 
 ## Battle Solutions
 
