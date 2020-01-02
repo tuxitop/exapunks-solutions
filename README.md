@@ -33,10 +33,11 @@ My solutions to the levels and battles of the [EXAPUNKS](https://store.steampowe
 
 ## Battle Solutions
 
-|  #  | Battle                                                                      | Rating | Wins | Draws | Losses |
-| :-: | --------------------------------------------------------------------------- | :----: | :--: | :---: | :----: |
-| 01  | [KGOG-TV - Programming Hub](./solutions/battles/01-kgog-tv-programming-hub) |   S+   | 100  |   0   |   0    |
-| 02  | [Valhalla - =plastered](./solutions/battles/02-valhalla-plastered)          |   S+   | 100  |   0   |   0    |
+|  #  | Battle                                                                           | Rating | Wins | Draws | Losses |
+| :-: | -------------------------------------------------------------------------------- | :----: | :--: | :---: | :----: |
+| 01  | [KGOG-TV - Programming Hub](./solutions/battles/01-kgog-tv-programming-hub)      |   S+   | 100  |   0   |   0    |
+| 02  | [Valhalla - =plastered](./solutions/battles/02-valhalla-plastered)               |   S+   | 100  |   0   |   0    |
+| 03  | [Deadlock's Domain - deadlock](./solutions/battles/03-deadlocks-domain-deadlock) |   S+   | 100  |   0   |   0    |
 
 ---
 
