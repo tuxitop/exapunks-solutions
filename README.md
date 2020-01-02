@@ -30,6 +30,7 @@ My solutions to the levels and battles of the [EXAPUNKS](https://store.steampowe
 | 20  | [Mitsuzen HDI-10 - Left Hand](./solutions/levels/20-mitsuzen-hdi-10-left-hand)                                                   |  103   |  72  |    21    |
 | 21  | [Sawayama Wonderdisc - Drive Controller](./solutions/levels/21-sawayama-wonderdisc-drive-controller)                             |  6555  |  48  |    63    |
 | 22  | [Alliance Power And Light - Streetsmarts GIS Database](./solutions/levels/22-alliance-power-and-light-streetsmarts-gis-database) |   47   |  34  |    36    |
+| 23  | [Xtreme League Baseball - Player Database](./solutions/levels/23-xtreme-league-baseball-player-database)                         |  221   |  56  |    3     |
 
 ## Battle Solutions
 
