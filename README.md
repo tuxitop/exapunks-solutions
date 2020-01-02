@@ -31,6 +31,7 @@ My solutions to the levels and battles of the [EXAPUNKS](https://store.steampowe
 | 21  | [Sawayama Wonderdisc - Drive Controller](./solutions/levels/21-sawayama-wonderdisc-drive-controller)                             |  6555  |  48  |    63    |
 | 22  | [Alliance Power And Light - Streetsmarts GIS Database](./solutions/levels/22-alliance-power-and-light-streetsmarts-gis-database) |   47   |  34  |    36    |
 | 23  | [Xtreme League Baseball - Player Database](./solutions/levels/23-xtreme-league-baseball-player-database)                         |  221   |  56  |    3     |
+| 24  | [King's Ransom Online - US West Realm](./solutions/levels/24-kings-ransom-online-us-west-realm)                                  |   67   |  41  |    33    |
 
 ## Battle Solutions
 
