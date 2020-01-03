@@ -35,6 +35,7 @@ My solutions to the levels and battles of the [EXAPUNKS](https://store.steampowe
 | 25  | [KGOG-TV - Satellite Uplink](./solutions/levels/25-kgog-tv-satellite-uplink)                                                     |  346   |  76  |    11    |
 | 26  | [Equity First Bank - San Francisco - ATMS Offline](./solutions/levels/26-equity-first-bank-san-francisco-atms-offline)           |  107   |  45  |    5     |
 | 27  | [TEC Exa-Blaster Modem - Dataphone Network](./solutions/levels/27-tec-exa-blaster-modem-dataphone-network)                       |  2313  |  48  |    32    |
+| 28  | [Last Stop Snaxnet - Warehouse 27](./solutions/levels/28-last-stop-snaxnet-warehouse-27)                                         |  314   |  70  |    22    |
 
 ## Battle Solutions
 
