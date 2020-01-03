@@ -34,6 +34,7 @@ My solutions to the levels and battles of the [EXAPUNKS](https://store.steampowe
 | 24  | [King's Ransom Online - US West Realm](./solutions/levels/24-kings-ransom-online-us-west-realm)                                  |   67   |  41  |    33    |
 | 25  | [KGOG-TV - Satellite Uplink](./solutions/levels/25-kgog-tv-satellite-uplink)                                                     |  346   |  76  |    11    |
 | 26  | [Equity First Bank - San Francisco - ATMS Offline](./solutions/levels/26-equity-first-bank-san-francisco-atms-offline)           |  107   |  45  |    5     |
+| 27  | [TEC Exa-Blaster Modem - Dataphone Network](./solutions/levels/27-tec-exa-blaster-modem-dataphone-network)                       |  2313  |  48  |    32    |
 
 ## Battle Solutions
 
