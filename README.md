@@ -36,6 +36,7 @@ My solutions to the levels and battles of the [EXAPUNKS](https://store.steampowe
 | 26  | [Equity First Bank - San Francisco - ATMS Offline](./solutions/levels/26-equity-first-bank-san-francisco-atms-offline)           |  107   |  45  |    5     |
 | 27  | [TEC Exa-Blaster Modem - Dataphone Network](./solutions/levels/27-tec-exa-blaster-modem-dataphone-network)                       |  2313  |  48  |    32    |
 | 28  | [Last Stop Snaxnet - Warehouse 27](./solutions/levels/28-last-stop-snaxnet-warehouse-27)                                         |  314   |  70  |    22    |
+| 29  | [Mitsuzen HDI-10 Visual Cortex](./solutions/levels/29-mitsuzen-hdi-10-visual-cortex)                                             |  2377  |  54  |   244    |
 
 ## Battle Solutions
 
