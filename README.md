@@ -47,6 +47,7 @@ My solutions to the levels and battles of the [EXAPUNKS](https://store.steampowe
 | 02  | [Valhalla - =plastered](./solutions/battles/02-valhalla-plastered)               |   S+   | 100  |   0   |   0    |
 | 03  | [Deadlock's Domain - deadlock](./solutions/battles/03-deadlocks-domain-deadlock) |   S+   | 100  |   0   |   0    |
 | 04  | [The Wormhole - x10x10x](./solutions/battles/04-the-wormhole-x10x10x)            |   S+   | 100  |   0   |   0    |
+| 05  | [Aberdeen - selenium_wolf](./solutions/battles/05-aberdeen-selenium_wolf)        |   S+   | 100  |   0   |   0    |
 
 ---
 
