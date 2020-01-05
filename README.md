@@ -40,6 +40,7 @@ My solutions to the levels and battles of the [EXAPUNKS](https://store.steampowe
 | 30  | [Holman Dynamics - Sales System](./solutions/levels/30-holman-dynamics-sales-system)                                             | 12.9K  |  85  |    3     |
 | 31  | [US Government - FEMA Genetic Database](./solutions/levels/31-us-government-fema-genetic-database)                               |  1269  | 111  |    44    |
 | 32  | [Unknown Network 2 - Unknown Context](./solutions/levels/32-unknown-network-2-unknown-context)                                   |  444   |  33  |    68    |
+| 33  | [TEC EXA-Blaster Modem - Pager Network](./solutions/levels/33-tec-exa-blaster-modem-pager-network)                               |  1072  |  59  |    10    |
 
 ## Battle Solutions
 
